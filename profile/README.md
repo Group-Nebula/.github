@@ -43,7 +43,7 @@ Meet the talented individuals behind our Software House:
 
 - **Davi Monteiro**
   - *Role:* Developer
-  - *GitHub:* [@Davi](https://github.com/davi)
+  - *GitHub:* [@Devsmount](https://github.com/Devsmount)
 
 ## How to Get Involved
 
