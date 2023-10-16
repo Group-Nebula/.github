@@ -15,19 +15,19 @@ At our Software House, we strive to:
 
 ## Projects
 
-### 1. Project Name 1
+### Luden
 
-Description of the project, its purpose, and key features.
+Luden is a management system for tabletop RPGs.
 
-- **Technologies:** List of technologies used (e.g., Python, JavaScript, React)
-- **GitHub Repository:** [Link to GitHub Repository](https://github.com/example/project1)
+- **Technologies:** React with Typescript, and Asp.Net
+- **GitHub Repository:** [Link to GitHub Repository](https://github.com/SylaCode/Luden)
 
-### 2. Project Name 2
+### Halumbra
 
-Description of the project, its purpose, and key features.
+Halumbra is a 2d game, that show the history of two brothers, Jack and Lula.
 
-- **Technologies:** List of technologies used (e.g., Java, Spring Boot, Angular)
-- **GitHub Repository:** [Link to GitHub Repository](https://github.com/example/project2)
+- **Technologies:** Soon...
+- **GitHub Repository:** Soon...
 
 ## Meet Our Team
 
@@ -60,10 +60,7 @@ We welcome contributions from developers, designers, and anyone passionate about
 
 Have questions or want to learn more? Reach out to us:
 
-- **Email:** softwarehouse@example.com
-- **Twitter:** [@softwarehouse](https://twitter.com/softwarehouse)
-- **LinkedIn:** [Our Software House](https://www.linkedin.com/company/softwarehouse)
-
+- **Email:** Sylacode.dev@gmail.com
 ---
 
-*Thank you for visiting our Software House! Together, let's shape the future of technology.* 🚀
+*Thank you for visiting us! Together, let's shape the future of technology.* 🚀
