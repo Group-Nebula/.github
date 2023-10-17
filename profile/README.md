@@ -24,7 +24,7 @@ Luden is a management system for tabletop RPGs.
 
 ### Halumbra
 
-Halumbra is a 2d game, that show the history of two brothers, Jack and Lula.
+Halumbra is a 2d game, that show the history of two brothers, Jack and Alula.
 
 - **Technologies:** Soon...
 - **GitHub Repository:** Soon...
