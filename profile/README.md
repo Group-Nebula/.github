@@ -64,7 +64,7 @@ We welcome contributions from developers, designers, and anyone passionate about
 
 Have questions or want to learn more? Reach out to us:
 
-- **Email:** Nebula.dev@gmail.com
+- **Email:** SylaCode.dev@gmail.com
 ---
 
 *Thank you for visiting us! Together, let's shape the future of technology.* 🚀
