@@ -20,7 +20,7 @@ At our Software House, we strive to:
 Luden is a management system for tabletop RPGs.
 
 - **Technologies:** React with Typescript, and Asp.Net
-- **GitHub Repository:** [Link to GitHub Repository](https://github.com/Nebula/Luden)
+- **GitHub Repository:** [Link to GitHub Repository](https://github.com/group-nebula/Luden)
 
 ### Halumbra
 
@@ -44,6 +44,10 @@ Meet the talented individuals behind our Software House:
 - **Davi Monteiro**
   - *Role:* Developer
   - *GitHub:* [@Devsmont](https://github.com/Devsmont)
+    
+- **Gabriel Costal**
+  - *Role:* Developer
+  - *GitHub:* [@GabrielFogo](https://github.com/GabrielFogo)
 
 ## How to Get Involved
 
