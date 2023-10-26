@@ -1,4 +1,4 @@
-# SylaCode
+# Nebula
 
 ## Overview
 
@@ -20,7 +20,7 @@ At our Software House, we strive to:
 Luden is a management system for tabletop RPGs.
 
 - **Technologies:** React with Typescript, and Asp.Net
-- **GitHub Repository:** [Link to GitHub Repository](https://github.com/SylaCode/Luden)
+- **GitHub Repository:** [Link to GitHub Repository](https://github.com/Nebula/Luden)
 
 ### Halumbra
 
@@ -60,7 +60,7 @@ We welcome contributions from developers, designers, and anyone passionate about
 
 Have questions or want to learn more? Reach out to us:
 
-- **Email:** Sylacode.dev@gmail.com
+- **Email:** Nebula.dev@gmail.com
 ---
 
 *Thank you for visiting us! Together, let's shape the future of technology.* 🚀
