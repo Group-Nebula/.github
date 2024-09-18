@@ -37,14 +37,6 @@ Meet the talented individuals behind our Software House:
   - *Role:* Developer/Project Manager
   - *GitHub:* [@jvtristaoac](https://github.com/jvtristaoac)
 
-- **Milena Martini**
-  - *Role:* Designer
-  - *GitHub:* [@MilenaMartini](https://github.com/milenaMartini)
-
-- **Davi Monteiro**
-  - *Role:* Developer
-  - *GitHub:* [@Devsmont](https://github.com/Devsmont)
-    
 - **Gabriel Costal**
   - *Role:* Developer
   - *GitHub:* [@GabrielFogo](https://github.com/GabrielFogo)
